@@ -1,0 +1,412 @@
+,X,Location,Year,Age,Sex,Measure,Road.Injuries,HIV,Ischemic.Heart.Disease
+1,1,Afghanistan,2019,15-69 years,Both,Percent of total deaths,0.066641327,0.002163739,0.179838083
+2,2,Angola,2019,15-69 years,Both,Percent of total deaths,0.082701152,0.195853262,0.050399923
+3,3,Albania,2019,15-69 years,Both,Percent of total deaths,0.06838024,0.000502499,0.173300847
+4,4,Andorra,2019,15-69 years,Both,Percent of total deaths,0.076437952,0.02694707,0.066149555
+5,5,United Arab Emirates,2019,15-69 years,Both,Percent of total deaths,0.15266505,0.0053842,0.156872548
+6,6,Argentina,2019,15-69 years,Both,Percent of total deaths,0.079143662,0.026741034,0.078702551
+7,7,Armenia,2019,15-69 years,Both,Percent of total deaths,0.048349224,0.005419346,0.198225059
+8,8,American Samoa,2019,15-69 years,Both,Percent of total deaths,0.033993588,0.003513454,0.146465001
+9,9,Antigua and Barbuda,2019,15-69 years,Both,Percent of total deaths,0.040209424,0.052315932,0.069854668
+10,10,Australia,2019,15-69 years,Both,Percent of total deaths,0.059117539,0.002883772,0.08148769
+11,11,Austria,2019,15-69 years,Both,Percent of total deaths,0.050365923,0.004875665,0.092532788
+12,12,Azerbaijan,2019,15-69 years,Both,Percent of total deaths,0.038269098,0.002342432,0.228278271
+13,13,Burundi,2019,15-69 years,Both,Percent of total deaths,0.041683861,0.051661858,0.053175034
+14,14,Belgium,2019,15-69 years,Both,Percent of total deaths,0.06704812,0.004199578,0.069938826
+15,15,Benin,2019,15-69 years,Both,Percent of total deaths,0.042746516,0.06452762,0.053680666
+16,16,Burkina Faso,2019,15-69 years,Both,Percent of total deaths,0.055095026,0.043668807,0.055825361
+17,17,Bangladesh,2019,15-69 years,Both,Percent of total deaths,0.028538244,0.00154532,0.14971722
+18,18,Bulgaria,2019,15-69 years,Both,Percent of total deaths,0.037427134,0.003013197,0.17166366
+19,19,Bahrain,2019,15-69 years,Both,Percent of total deaths,0.097386102,0.004204352,0.174308426
+20,20,Bahamas,2019,15-69 years,Both,Percent of total deaths,0.042786346,0.096307856,0.078786637
+21,21,Bosnia and Herzegovina,2019,15-69 years,Both,Percent of total deaths,0.033934445,0.000321274,0.141959703
+22,22,Belarus,2019,15-69 years,Both,Percent of total deaths,0.037829355,0.015899724,0.2030117
+23,23,Belize,2019,15-69 years,Both,Percent of total deaths,0.076895725,0.083756256,0.066389512
+24,24,Bermuda,2019,15-69 years,Both,Percent of total deaths,0.063631695,0.08227763,0.101701027
+25,25,Bolivia (Plurinational State of),2019,15-69 years,Both,Percent of total deaths,0.066659482,0.033056001,0.065368029
+26,26,Brazil,2019,15-69 years,Both,Percent of total deaths,0.086101656,0.032291519,0.088641179
+27,27,Barbados,2019,15-69 years,Both,Percent of total deaths,0.046340264,0.047641532,0.0626115
+28,28,Brunei Darussalam,2019,15-69 years,Both,Percent of total deaths,0.070832494,0.006493136,0.125340442
+29,29,Bhutan,2019,15-69 years,Both,Percent of total deaths,0.04586389,0.025535274,0.13987073
+30,30,Botswana,2019,15-69 years,Both,Percent of total deaths,0.034871225,0.407560319,0.046974311
+31,31,Central African Republic,2019,15-69 years,Both,Percent of total deaths,0.071011947,0.17121064,0.043417196
+32,32,Canada,2019,15-69 years,Both,Percent of total deaths,0.055790023,0.00702363,0.09065454
+33,33,Switzerland,2019,15-69 years,Both,Percent of total deaths,0.0403709,0.006131304,0.077152232
+34,34,Chile,2019,15-69 years,Both,Percent of total deaths,0.083013317,0.024019906,0.068722474
+35,35,Côte d'Ivoire,2019,15-69 years,Both,Percent of total deaths,0.031332892,0.164419194,0.053526489
+36,36,Cameroon,2019,15-69 years,Both,Percent of total deaths,0.050995562,0.24407306,0.04592324
+37,37,Democratic Republic of the Congo,2019,15-69 years,Both,Percent of total deaths,0.102689564,0.039038464,0.052807333
+38,38,Congo,2019,15-69 years,Both,Percent of total deaths,0.069828734,0.215864322,0.060275959
+39,39,Cook Islands,2019,15-69 years,Both,Percent of total deaths,0.080516451,0.045290221,0.130095916
+40,40,Colombia,2019,15-69 years,Both,Percent of total deaths,0.080120402,0.031848471,0.087044567
+41,41,Comoros,2019,15-69 years,Both,Percent of total deaths,0.055547256,0.001183901,0.064909698
+42,42,Cabo Verde,2019,15-69 years,Both,Percent of total deaths,0.032968615,0.048559256,0.082239264
+43,43,Costa Rica,2019,15-69 years,Both,Percent of total deaths,0.107248144,0.02109365,0.088896329
+44,44,Cuba,2019,15-69 years,Both,Percent of total deaths,0.051738459,0.023634215,0.116796941
+45,45,Cyprus,2019,15-69 years,Both,Percent of total deaths,0.098016312,0.003539115,0.156020621
+46,46,Czechia,2019,15-69 years,Both,Percent of total deaths,0.047424538,0.00142973,0.122158709
+47,47,Germany,2019,15-69 years,Both,Percent of total deaths,0.045764327,0.004614943,0.091977881
+48,48,Djibouti,2019,15-69 years,Both,Percent of total deaths,0.029390497,0.234695813,0.056616985
+49,49,Dominica,2019,15-69 years,Both,Percent of total deaths,0.06439909,0.033868783,0.056333819
+50,50,Denmark,2019,15-69 years,Both,Percent of total deaths,0.044368224,0.004120078,0.05920077
+51,51,Dominican Republic,2019,15-69 years,Both,Percent of total deaths,0.096074618,0.052635665,0.160446304
+52,52,Algeria,2019,15-69 years,Both,Percent of total deaths,0.162422905,0.004090408,0.219362051
+53,53,Ecuador,2019,15-69 years,Both,Percent of total deaths,0.127797705,0.041168267,0.076873004
+54,54,Eritrea,2019,15-69 years,Both,Percent of total deaths,0.038898619,0.057932636,0.049627122
+55,55,Spain,2019,15-69 years,Both,Percent of total deaths,0.050841039,0.018652727,0.088053439
+56,56,Estonia,2019,15-69 years,Both,Percent of total deaths,0.028575966,0.020385401,0.091774431
+57,57,Ethiopia,2019,15-69 years,Both,Percent of total deaths,0.031542352,0.116508934,0.049216867
+58,58,Finland,2019,15-69 years,Both,Percent of total deaths,0.034215758,0.000782991,0.096270079
+59,59,Fiji,2019,15-69 years,Both,Percent of total deaths,0.031148605,0.003301266,0.203532431
+60,60,France,2019,15-69 years,Both,Percent of total deaths,0.05991004,0.006500853,0.057504294
+61,61,Micronesia (Federated States of),2019,15-69 years,Both,Percent of total deaths,0.04113977,0.092124211,0.161541098
+62,62,Gabon,2019,15-69 years,Both,Percent of total deaths,0.083831834,0.197340737,0.054179701
+63,63,United Kingdom,2019,15-69 years,Both,Percent of total deaths,0.034596084,0.003553172,0.100793704
+64,64,Georgia,2019,15-69 years,Both,Percent of total deaths,0.075373431,0.003174671,0.162714398
+65,65,Ghana,2019,15-69 years,Both,Percent of total deaths,0.051857603,0.157467854,0.056500109
+66,66,Guinea,2019,15-69 years,Both,Percent of total deaths,0.035918195,0.107592871,0.051007457
+67,67,Gambia,2019,15-69 years,Both,Percent of total deaths,0.030919251,0.183163471,0.064076835
+68,68,Guinea-Bissau,2019,15-69 years,Both,Percent of total deaths,0.055225801,0.141057169,0.063824586
+69,69,Equatorial Guinea,2019,15-69 years,Both,Percent of total deaths,0.052940106,0.428266169,0.034189519
+70,70,Greece,2019,15-69 years,Both,Percent of total deaths,0.09551369,0.002384857,0.180655916
+71,71,Grenada,2019,15-69 years,Both,Percent of total deaths,0.042670219,0.026127994,0.079113508
+72,72,Greenland,2019,15-69 years,Both,Percent of total deaths,0.014248366,0.007257029,0.065986261
+73,73,Guatemala,2019,15-69 years,Both,Percent of total deaths,0.056673057,0.014439536,0.057894517
+74,74,Guam,2019,15-69 years,Both,Percent of total deaths,0.045416571,0.019385702,0.218215366
+75,75,Guyana,2019,15-69 years,Both,Percent of total deaths,0.049030666,0.063360326,0.10549221
+76,76,Honduras,2019,15-69 years,Both,Percent of total deaths,0.051319469,0.005467102,0.081005494
+77,77,Croatia,2019,15-69 years,Both,Percent of total deaths,0.064738773,0.001376084,0.125202126
+78,78,Haiti,2019,15-69 years,Both,Percent of total deaths,0.02414776,0.128451108,0.096957022
+79,79,Hungary,2019,15-69 years,Both,Percent of total deaths,0.03861593,0.001870226,0.135943858
+80,80,Indonesia,2019,15-69 years,Both,Percent of total deaths,0.055434579,0.010196381,0.134798277
+81,81,India,2019,15-69 years,Both,Percent of total deaths,0.057327416,0.015410431,0.14989065
+82,82,Ireland,2019,15-69 years,Both,Percent of total deaths,0.034484986,0.002683637,0.101490053
+83,83,Iran (Islamic Republic of),2019,15-69 years,Both,Percent of total deaths,0.152785342,0.00925803,0.179546543
+84,84,Iraq,2019,15-69 years,Both,Percent of total deaths,0.068001274,0.000850623,0.187718993
+85,85,Iceland,2019,15-69 years,Both,Percent of total deaths,0.037279889,0.00403136,0.106520109
+86,86,Israel,2019,15-69 years,Both,Percent of total deaths,0.068584453,0.005491826,0.067289585
+87,87,Italy,2019,15-69 years,Both,Percent of total deaths,0.073457327,0.012414017,0.088498166
+88,88,Jamaica,2019,15-69 years,Both,Percent of total deaths,0.028279817,0.088095271,0.061232126
+89,89,Jordan,2019,15-69 years,Both,Percent of total deaths,0.099227476,0.00222151,0.177381829
+90,90,Japan,2019,15-69 years,Both,Percent of total deaths,0.033480451,0.000842329,0.074844264
+91,91,Kazakhstan,2019,15-69 years,Both,Percent of total deaths,0.053265494,0.0067177,0.114954415
+92,92,Kenya,2019,15-69 years,Both,Percent of total deaths,0.022197937,0.305973662,0.034703763
+93,93,Kyrgyzstan,2019,15-69 years,Both,Percent of total deaths,0.076460344,0.014557418,0.155967626
+94,94,Cambodia,2019,15-69 years,Both,Percent of total deaths,0.067473322,0.034849137,0.077870834
+95,95,Kiribati,2019,15-69 years,Both,Percent of total deaths,0.031070807,0.001933362,0.142169855
+96,96,Saint Kitts and Nevis,2019,15-69 years,Both,Percent of total deaths,0.029628367,0.199161179,0.061611529
+97,97,Republic of Korea,2019,15-69 years,Both,Percent of total deaths,0.063593891,0.001812828,0.047759913
+98,98,Kuwait,2019,15-69 years,Both,Percent of total deaths,0.123313694,0.000675286,0.297418737
+99,99,Lao People's Democratic Republic,2019,15-69 years,Both,Percent of total deaths,0.059470531,0.020782717,0.111081943
+100,100,Lebanon,2019,15-69 years,Both,Percent of total deaths,0.05591117,0.006715114,0.283547644
+101,101,Liberia,2019,15-69 years,Both,Percent of total deaths,0.027606643,0.127374574,0.056067781
+102,102,Libya,2019,15-69 years,Both,Percent of total deaths,0.138825952,0.006021968,0.193379593
+103,103,Saint Lucia,2019,15-69 years,Both,Percent of total deaths,0.057942874,0.018681764,0.053771834
+104,104,Sri Lanka,2019,15-69 years,Both,Percent of total deaths,0.06817149,0.001055111,0.118869641
+105,105,Lesotho,2019,15-69 years,Both,Percent of total deaths,0.036598253,0.451738626,0.028205829
+106,106,Lithuania,2019,15-69 years,Both,Percent of total deaths,0.032398383,0.010500185,0.136723146
+107,107,Luxembourg,2019,15-69 years,Both,Percent of total deaths,0.061344137,0.005019126,0.071885398
+108,108,Latvia,2019,15-69 years,Both,Percent of total deaths,0.036885324,0.033754018,0.129452534
+109,109,Morocco,2019,15-69 years,Both,Percent of total deaths,0.122015526,0.007385679,0.232556337
+110,110,Monaco,2019,15-69 years,Both,Percent of total deaths,0.042281212,0.013215954,0.073490987
+111,111,Republic of Moldova,2019,15-69 years,Both,Percent of total deaths,0.037492439,0.025920757,0.154020211
+112,112,Madagascar,2019,15-69 years,Both,Percent of total deaths,0.031369023,0.035414208,0.068841296
+113,113,Maldives,2019,15-69 years,Both,Percent of total deaths,0.041648061,0.001683667,0.171758723
+114,114,Mexico,2019,15-69 years,Both,Percent of total deaths,0.070708359,0.020663671,0.081116074
+115,115,Marshall Islands,2019,15-69 years,Both,Percent of total deaths,0.040612534,0.015939258,0.180727367
+116,116,North Macedonia,2019,15-69 years,Both,Percent of total deaths,0.043630854,0.000512123,0.165165453
+117,117,Mali,2019,15-69 years,Both,Percent of total deaths,0.028074999,0.084714686,0.044685563
+118,118,Malta,2019,15-69 years,Both,Percent of total deaths,0.03944543,0.004694468,0.138743495
+119,119,Myanmar,2019,15-69 years,Both,Percent of total deaths,0.03934312,0.037329977,0.074296407
+120,120,Montenegro,2019,15-69 years,Both,Percent of total deaths,0.051872551,0.001294604,0.138848919
+121,121,Mongolia,2019,15-69 years,Both,Percent of total deaths,0.054430782,0.001047892,0.135299299
+122,122,Northern Mariana Islands,2019,15-69 years,Both,Percent of total deaths,0.042769653,0.00485545,0.154710213
+123,123,Mozambique,2019,15-69 years,Both,Percent of total deaths,0.026381939,0.39005817,0.033514468
+124,124,Mauritania,2019,15-69 years,Both,Percent of total deaths,0.092365235,0.003171153,0.059453101
+125,125,Mauritius,2019,15-69 years,Both,Percent of total deaths,0.050007614,0.037756732,0.108332629
+126,126,Malawi,2019,15-69 years,Both,Percent of total deaths,0.028665512,0.2415567,0.044797722
+127,127,Malaysia,2019,15-69 years,Both,Percent of total deaths,0.120740453,0.022782755,0.150764737
+128,128,Namibia,2019,15-69 years,Both,Percent of total deaths,0.050670244,0.352518799,0.043950508
+129,129,Niger,2019,15-69 years,Both,Percent of total deaths,0.034689248,0.02980367,0.051839003
+130,130,Nigeria,2019,15-69 years,Both,Percent of total deaths,0.022349721,0.170834924,0.048129985
+131,131,Nicaragua,2019,15-69 years,Both,Percent of total deaths,0.068153456,0.068278136,0.089336821
+132,132,Niue,2019,15-69 years,Both,Percent of total deaths,0.048121261,0.035034982,0.18559045
+133,133,Netherlands,2019,15-69 years,Both,Percent of total deaths,0.039203014,0.003214369,0.070493275
+134,134,Norway,2019,15-69 years,Both,Percent of total deaths,0.037167955,0.003292387,0.076863307
+135,135,Nepal,2019,15-69 years,Both,Percent of total deaths,0.034854646,0.025657325,0.108394074
+136,136,Nauru,2019,15-69 years,Both,Percent of total deaths,0.065043941,0.017499639,0.205576577
+137,137,New Zealand,2019,15-69 years,Both,Percent of total deaths,0.071656423,0.002139059,0.098293008
+138,138,Oman,2019,15-69 years,Both,Percent of total deaths,0.313541568,0.015889244,0.203023303
+139,139,Pakistan,2019,15-69 years,Both,Percent of total deaths,0.028217442,0.00638473,0.153878137
+140,140,Panama,2019,15-69 years,Both,Percent of total deaths,0.076776355,0.096265519,0.069004033
+141,141,Peru,2019,15-69 years,Both,Percent of total deaths,0.087529891,0.045313,0.060526684
+142,142,Philippines,2019,15-69 years,Both,Percent of total deaths,0.039167153,0.019214993,0.138698717
+143,143,Palau,2019,15-69 years,Both,Percent of total deaths,0.035420155,0.02084315,0.176432716
+144,144,Papua New Guinea,2019,15-69 years,Both,Percent of total deaths,0.057124407,0.110476928,0.119918108
+145,145,Poland,2019,15-69 years,Both,Percent of total deaths,0.053927231,0.002616519,0.098647527
+146,146,Puerto Rico,2019,15-69 years,Both,Percent of total deaths,0.05780583,0.038943048,0.080316247
+147,147,Democratic People's Republic of Korea,2019,15-69 years,Both,Percent of total deaths,0.119243108,0.011158321,0.112065941
+148,148,Portugal,2019,15-69 years,Both,Percent of total deaths,0.058203554,0.046495941,0.071254268
+149,149,Paraguay,2019,15-69 years,Both,Percent of total deaths,0.123117025,0.041785546,0.092071598
+150,150,Palestine,2019,15-69 years,Both,Percent of total deaths,0.062978056,0.002914558,0.191552973
+151,151,Qatar,2019,15-69 years,Both,Percent of total deaths,0.243887113,0.00141832,0.15071112
+152,152,Romania,2019,15-69 years,Both,Percent of total deaths,0.046773143,0.004689288,0.134097292
+153,153,Russian Federation,2019,15-69 years,Both,Percent of total deaths,0.040168391,0.047983036,0.149965012
+154,154,Rwanda,2019,15-69 years,Both,Percent of total deaths,0.059316307,0.104096265,0.042211242
+155,155,Saudi Arabia,2019,15-69 years,Both,Percent of total deaths,0.238398398,0.007718808,0.200012811
+156,156,Senegal,2019,15-69 years,Both,Percent of total deaths,0.04000284,0.049555475,0.059152147
+157,157,Singapore,2019,15-69 years,Both,Percent of total deaths,0.037088719,0.008936079,0.143168452
+158,158,Solomon Islands,2019,15-69 years,Both,Percent of total deaths,0.040386724,0.009420771,0.203084061
+159,159,Sierra Leone,2019,15-69 years,Both,Percent of total deaths,0.038518187,0.11763992,0.057906065
+160,160,El Salvador,2019,15-69 years,Both,Percent of total deaths,0.065789602,0.038926097,0.077575788
+161,161,San Marino,2019,15-69 years,Both,Percent of total deaths,0.073021301,0.017999256,0.063514405
+162,162,Somalia,2019,15-69 years,Both,Percent of total deaths,0.034193898,0.039373156,0.049747908
+163,163,Serbia,2019,15-69 years,Both,Percent of total deaths,0.045687711,0.00401256,0.128039467
+164,164,South Sudan,2019,15-69 years,Both,Percent of total deaths,0.024784755,0.184243097,0.039444365
+165,165,Sao Tome and Principe,2019,15-69 years,Both,Percent of total deaths,0.044676397,0.000815247,0.081942426
+166,166,Suriname,2019,15-69 years,Both,Percent of total deaths,0.061456064,0.070963178,0.097937708
+167,167,Slovakia,2019,15-69 years,Both,Percent of total deaths,0.044599815,0.000515274,0.139230717
+168,168,Slovenia,2019,15-69 years,Both,Percent of total deaths,0.055031062,0.001186897,0.07195228
+169,169,Sweden,2019,15-69 years,Both,Percent of total deaths,0.036868105,0.002482691,0.087553881
+170,170,Eswatini,2019,15-69 years,Both,Percent of total deaths,0.046270231,0.409605524,0.035792732
+171,171,Seychelles,2019,15-69 years,Both,Percent of total deaths,0.055453554,0.014814209,0.101270915
+172,172,Syrian Arab Republic,2019,15-69 years,Both,Percent of total deaths,0.060158515,0.000672358,0.340105854
+173,173,Chad,2019,15-69 years,Both,Percent of total deaths,0.035160523,0.105230349,0.048078671
+174,174,Togo,2019,15-69 years,Both,Percent of total deaths,0.050252846,0.140861224,0.062197999
+175,175,Thailand,2019,15-69 years,Both,Percent of total deaths,0.107271644,0.097873109,0.061612522
+176,176,Tajikistan,2019,15-69 years,Both,Percent of total deaths,0.039688764,0.0040251,0.195622617
+177,177,Tokelau,2019,15-69 years,Both,Percent of total deaths,0.047783386,0.035843929,0.168239411
+178,178,Turkmenistan,2019,15-69 years,Both,Percent of total deaths,0.021090614,0.010039227,0.203623009
+179,179,Timor-Leste,2019,15-69 years,Both,Percent of total deaths,0.057934343,0.080178263,0.104676104
+180,180,Tonga,2019,15-69 years,Both,Percent of total deaths,0.043239568,0.009062579,0.128417789
+181,181,Trinidad and Tobago,2019,15-69 years,Both,Percent of total deaths,0.048669873,0.068789928,0.112233146
+182,182,Tunisia,2019,15-69 years,Both,Percent of total deaths,0.13262982,0.010316137,0.217742047
+183,183,Turkey,2019,15-69 years,Both,Percent of total deaths,0.074540364,0.002498374,0.159126961
+184,184,Tuvalu,2019,15-69 years,Both,Percent of total deaths,0.060725533,0.023598292,0.181555053
+185,185,Taiwan (Province of China),2019,15-69 years,Both,Percent of total deaths,0.066997762,0.004741576,0.056235757
+186,186,United Republic of Tanzania,2019,15-69 years,Both,Percent of total deaths,0.027700567,0.198254877,0.04531916
+187,187,Uganda,2019,15-69 years,Both,Percent of total deaths,0.039954147,0.201332285,0.040224443
+188,188,Ukraine,2019,15-69 years,Both,Percent of total deaths,0.03719242,0.043163931,0.201914435
+189,189,Uruguay,2019,15-69 years,Both,Percent of total deaths,0.080525145,0.031035518,0.066344157
+190,190,United States of America,2019,15-69 years,Both,Percent of total deaths,0.065219589,0.011264924,0.101939361
+191,191,Uzbekistan,2019,15-69 years,Both,Percent of total deaths,0.055737907,0.00851732,0.239302594
+192,192,Saint Vincent and the Grenadines,2019,15-69 years,Both,Percent of total deaths,0.028469816,0.070927075,0.08176935
+193,193,Venezuela (Bolivarian Republic of),2019,15-69 years,Both,Percent of total deaths,0.083593455,0.028725236,0.122899606
+194,194,United States Virgin Islands,2019,15-69 years,Both,Percent of total deaths,0.043999752,0.033927481,0.12987012
+195,195,Viet Nam,2019,15-69 years,Both,Percent of total deaths,0.107380545,0.044305706,0.072950093
+196,196,Vanuatu,2019,15-69 years,Both,Percent of total deaths,0.060322,0.016819806,0.193136801
+197,197,Samoa,2019,15-69 years,Both,Percent of total deaths,0.058102818,0.024929709,0.172694678
+198,198,Yemen,2019,15-69 years,Both,Percent of total deaths,0.121016778,0.003649288,0.189278911
+199,199,South Africa,2019,15-69 years,Both,Percent of total deaths,0.055650828,0.428854527,0.034259257
+200,200,Zambia,2019,15-69 years,Both,Percent of total deaths,0.026893337,0.299726216,0.037536953
+201,201,Zimbabwe,2019,15-69 years,Both,Percent of total deaths,0.030762777,0.266964611,0.051815546
+202,202,Egypt,2019,15-69 years,Both,Percent of total deaths,0.130130931,0.000338142,0.270220273
+203,203,Sudan,2019,15-69 years,Both,Percent of total deaths,0.07678624,0.079576618,0.216912459
+204,204,China,2019,15-69 years,Both,Percent of total deaths,0.097773854,0.01381587,0.116200299
+=======,,,,,,,,,
+Location,Year,Age,Sex,Measure,Road Injuries,HIV,Ischemic Heart Disease,,
+Afghanistan,2019,15-69 years,Both,Percent of total deaths,0.066641327,0.002163739,0.179838083,,
+Angola,2019,15-69 years,Both,Percent of total deaths,0.082701152,0.195853262,0.050399923,,
+Albania,2019,15-69 years,Both,Percent of total deaths,0.06838024,0.000502499,0.173300847,,
+Andorra,2019,15-69 years,Both,Percent of total deaths,0.076437952,0.02694707,0.066149555,,
+United Arab Emirates,2019,15-69 years,Both,Percent of total deaths,0.15266505,0.0053842,0.156872548,,
+Argentina,2019,15-69 years,Both,Percent of total deaths,0.079143662,0.026741034,0.078702551,,
+Armenia,2019,15-69 years,Both,Percent of total deaths,0.048349224,0.005419346,0.198225059,,
+American Samoa,2019,15-69 years,Both,Percent of total deaths,0.033993588,0.003513454,0.146465001,,
+Antigua and Barbuda,2019,15-69 years,Both,Percent of total deaths,0.040209424,0.052315932,0.069854668,,
+Australia,2019,15-69 years,Both,Percent of total deaths,0.059117539,0.002883772,0.08148769,,
+Austria,2019,15-69 years,Both,Percent of total deaths,0.050365923,0.004875665,0.092532788,,
+Azerbaijan,2019,15-69 years,Both,Percent of total deaths,0.038269098,0.002342432,0.228278271,,
+Burundi,2019,15-69 years,Both,Percent of total deaths,0.041683861,0.051661858,0.053175034,,
+Belgium,2019,15-69 years,Both,Percent of total deaths,0.06704812,0.004199578,0.069938826,,
+Benin,2019,15-69 years,Both,Percent of total deaths,0.042746516,0.06452762,0.053680666,,
+Burkina Faso,2019,15-69 years,Both,Percent of total deaths,0.055095026,0.043668807,0.055825361,,
+Bangladesh,2019,15-69 years,Both,Percent of total deaths,0.028538244,0.00154532,0.14971722,,
+Bulgaria,2019,15-69 years,Both,Percent of total deaths,0.037427134,0.003013197,0.17166366,,
+Bahrain,2019,15-69 years,Both,Percent of total deaths,0.097386102,0.004204352,0.174308426,,
+Bahamas,2019,15-69 years,Both,Percent of total deaths,0.042786346,0.096307856,0.078786637,,
+Bosnia and Herzegovina,2019,15-69 years,Both,Percent of total deaths,0.033934445,0.000321274,0.141959703,,
+Belarus,2019,15-69 years,Both,Percent of total deaths,0.037829355,0.015899724,0.2030117,,
+Belize,2019,15-69 years,Both,Percent of total deaths,0.076895725,0.083756256,0.066389512,,
+Bermuda,2019,15-69 years,Both,Percent of total deaths,0.063631695,0.08227763,0.101701027,,
+Bolivia (Plurinational State of),2019,15-69 years,Both,Percent of total deaths,0.066659482,0.033056001,0.065368029,,
+Brazil,2019,15-69 years,Both,Percent of total deaths,0.086101656,0.032291519,0.088641179,,
+Barbados,2019,15-69 years,Both,Percent of total deaths,0.046340264,0.047641532,0.0626115,,
+Brunei Darussalam,2019,15-69 years,Both,Percent of total deaths,0.070832494,0.006493136,0.125340442,,
+Bhutan,2019,15-69 years,Both,Percent of total deaths,0.04586389,0.025535274,0.13987073,,
+Botswana,2019,15-69 years,Both,Percent of total deaths,0.034871225,0.407560319,0.046974311,,
+Central African Republic,2019,15-69 years,Both,Percent of total deaths,0.071011947,0.17121064,0.043417196,,
+Canada,2019,15-69 years,Both,Percent of total deaths,0.055790023,0.00702363,0.09065454,,
+Switzerland,2019,15-69 years,Both,Percent of total deaths,0.0403709,0.006131304,0.077152232,,
+Chile,2019,15-69 years,Both,Percent of total deaths,0.083013317,0.024019906,0.068722474,,
+Côte d'Ivoire,2019,15-69 years,Both,Percent of total deaths,0.031332892,0.164419194,0.053526489,,
+Cameroon,2019,15-69 years,Both,Percent of total deaths,0.050995562,0.24407306,0.04592324,,
+Democratic Republic of the Congo,2019,15-69 years,Both,Percent of total deaths,0.102689564,0.039038464,0.052807333,,
+Congo,2019,15-69 years,Both,Percent of total deaths,0.069828734,0.215864322,0.060275959,,
+Cook Islands,2019,15-69 years,Both,Percent of total deaths,0.080516451,0.045290221,0.130095916,,
+Colombia,2019,15-69 years,Both,Percent of total deaths,0.080120402,0.031848471,0.087044567,,
+Comoros,2019,15-69 years,Both,Percent of total deaths,0.055547256,0.001183901,0.064909698,,
+Cabo Verde,2019,15-69 years,Both,Percent of total deaths,0.032968615,0.048559256,0.082239264,,
+Costa Rica,2019,15-69 years,Both,Percent of total deaths,0.107248144,0.02109365,0.088896329,,
+Cuba,2019,15-69 years,Both,Percent of total deaths,0.051738459,0.023634215,0.116796941,,
+Cyprus,2019,15-69 years,Both,Percent of total deaths,0.098016312,0.003539115,0.156020621,,
+Czechia,2019,15-69 years,Both,Percent of total deaths,0.047424538,0.00142973,0.122158709,,
+Germany,2019,15-69 years,Both,Percent of total deaths,0.045764327,0.004614943,0.091977881,,
+Djibouti,2019,15-69 years,Both,Percent of total deaths,0.029390497,0.234695813,0.056616985,,
+Dominica,2019,15-69 years,Both,Percent of total deaths,0.06439909,0.033868783,0.056333819,,
+Denmark,2019,15-69 years,Both,Percent of total deaths,0.044368224,0.004120078,0.05920077,,
+Dominican Republic,2019,15-69 years,Both,Percent of total deaths,0.096074618,0.052635665,0.160446304,,
+Algeria,2019,15-69 years,Both,Percent of total deaths,0.162422905,0.004090408,0.219362051,,
+Ecuador,2019,15-69 years,Both,Percent of total deaths,0.127797705,0.041168267,0.076873004,,
+Eritrea,2019,15-69 years,Both,Percent of total deaths,0.038898619,0.057932636,0.049627122,,
+Spain,2019,15-69 years,Both,Percent of total deaths,0.050841039,0.018652727,0.088053439,,
+Estonia,2019,15-69 years,Both,Percent of total deaths,0.028575966,0.020385401,0.091774431,,
+Ethiopia,2019,15-69 years,Both,Percent of total deaths,0.031542352,0.116508934,0.049216867,,
+Finland,2019,15-69 years,Both,Percent of total deaths,0.034215758,0.000782991,0.096270079,,
+Fiji,2019,15-69 years,Both,Percent of total deaths,0.031148605,0.003301266,0.203532431,,
+France,2019,15-69 years,Both,Percent of total deaths,0.05991004,0.006500853,0.057504294,,
+Micronesia (Federated States of),2019,15-69 years,Both,Percent of total deaths,0.04113977,0.092124211,0.161541098,,
+Gabon,2019,15-69 years,Both,Percent of total deaths,0.083831834,0.197340737,0.054179701,,
+United Kingdom,2019,15-69 years,Both,Percent of total deaths,0.034596084,0.003553172,0.100793704,,
+Georgia,2019,15-69 years,Both,Percent of total deaths,0.075373431,0.003174671,0.162714398,,
+Ghana,2019,15-69 years,Both,Percent of total deaths,0.051857603,0.157467854,0.056500109,,
+Guinea,2019,15-69 years,Both,Percent of total deaths,0.035918195,0.107592871,0.051007457,,
+Gambia,2019,15-69 years,Both,Percent of total deaths,0.030919251,0.183163471,0.064076835,,
+Guinea-Bissau,2019,15-69 years,Both,Percent of total deaths,0.055225801,0.141057169,0.063824586,,
+Equatorial Guinea,2019,15-69 years,Both,Percent of total deaths,0.052940106,0.428266169,0.034189519,,
+Greece,2019,15-69 years,Both,Percent of total deaths,0.09551369,0.002384857,0.180655916,,
+Grenada,2019,15-69 years,Both,Percent of total deaths,0.042670219,0.026127994,0.079113508,,
+Greenland,2019,15-69 years,Both,Percent of total deaths,0.014248366,0.007257029,0.065986261,,
+Guatemala,2019,15-69 years,Both,Percent of total deaths,0.056673057,0.014439536,0.057894517,,
+Guam,2019,15-69 years,Both,Percent of total deaths,0.045416571,0.019385702,0.218215366,,
+Guyana,2019,15-69 years,Both,Percent of total deaths,0.049030666,0.063360326,0.10549221,,
+Honduras,2019,15-69 years,Both,Percent of total deaths,0.051319469,0.005467102,0.081005494,,
+Croatia,2019,15-69 years,Both,Percent of total deaths,0.064738773,0.001376084,0.125202126,,
+Haiti,2019,15-69 years,Both,Percent of total deaths,0.02414776,0.128451108,0.096957022,,
+Hungary,2019,15-69 years,Both,Percent of total deaths,0.03861593,0.001870226,0.135943858,,
+Indonesia,2019,15-69 years,Both,Percent of total deaths,0.055434579,0.010196381,0.134798277,,
+India,2019,15-69 years,Both,Percent of total deaths,0.057327416,0.015410431,0.14989065,,
+Ireland,2019,15-69 years,Both,Percent of total deaths,0.034484986,0.002683637,0.101490053,,
+Iran (Islamic Republic of),2019,15-69 years,Both,Percent of total deaths,0.152785342,0.00925803,0.179546543,,
+Iraq,2019,15-69 years,Both,Percent of total deaths,0.068001274,0.000850623,0.187718993,,
+Iceland,2019,15-69 years,Both,Percent of total deaths,0.037279889,0.00403136,0.106520109,,
+Israel,2019,15-69 years,Both,Percent of total deaths,0.068584453,0.005491826,0.067289585,,
+Italy,2019,15-69 years,Both,Percent of total deaths,0.073457327,0.012414017,0.088498166,,
+Jamaica,2019,15-69 years,Both,Percent of total deaths,0.028279817,0.088095271,0.061232126,,
+Jordan,2019,15-69 years,Both,Percent of total deaths,0.099227476,0.00222151,0.177381829,,
+Japan,2019,15-69 years,Both,Percent of total deaths,0.033480451,0.000842329,0.074844264,,
+Kazakhstan,2019,15-69 years,Both,Percent of total deaths,0.053265494,0.0067177,0.114954415,,
+Kenya,2019,15-69 years,Both,Percent of total deaths,0.022197937,0.305973662,0.034703763,,
+Kyrgyzstan,2019,15-69 years,Both,Percent of total deaths,0.076460344,0.014557418,0.155967626,,
+Cambodia,2019,15-69 years,Both,Percent of total deaths,0.067473322,0.034849137,0.077870834,,
+Kiribati,2019,15-69 years,Both,Percent of total deaths,0.031070807,0.001933362,0.142169855,,
+Saint Kitts and Nevis,2019,15-69 years,Both,Percent of total deaths,0.029628367,0.199161179,0.061611529,,
+Republic of Korea,2019,15-69 years,Both,Percent of total deaths,0.063593891,0.001812828,0.047759913,,
+Kuwait,2019,15-69 years,Both,Percent of total deaths,0.123313694,0.000675286,0.297418737,,
+Lao People's Democratic Republic,2019,15-69 years,Both,Percent of total deaths,0.059470531,0.020782717,0.111081943,,
+Lebanon,2019,15-69 years,Both,Percent of total deaths,0.05591117,0.006715114,0.283547644,,
+Liberia,2019,15-69 years,Both,Percent of total deaths,0.027606643,0.127374574,0.056067781,,
+Libya,2019,15-69 years,Both,Percent of total deaths,0.138825952,0.006021968,0.193379593,,
+Saint Lucia,2019,15-69 years,Both,Percent of total deaths,0.057942874,0.018681764,0.053771834,,
+Sri Lanka,2019,15-69 years,Both,Percent of total deaths,0.06817149,0.001055111,0.118869641,,
+Lesotho,2019,15-69 years,Both,Percent of total deaths,0.036598253,0.451738626,0.028205829,,
+Lithuania,2019,15-69 years,Both,Percent of total deaths,0.032398383,0.010500185,0.136723146,,
+Luxembourg,2019,15-69 years,Both,Percent of total deaths,0.061344137,0.005019126,0.071885398,,
+Latvia,2019,15-69 years,Both,Percent of total deaths,0.036885324,0.033754018,0.129452534,,
+Morocco,2019,15-69 years,Both,Percent of total deaths,0.122015526,0.007385679,0.232556337,,
+Monaco,2019,15-69 years,Both,Percent of total deaths,0.042281212,0.013215954,0.073490987,,
+Republic of Moldova,2019,15-69 years,Both,Percent of total deaths,0.037492439,0.025920757,0.154020211,,
+Madagascar,2019,15-69 years,Both,Percent of total deaths,0.031369023,0.035414208,0.068841296,,
+Maldives,2019,15-69 years,Both,Percent of total deaths,0.041648061,0.001683667,0.171758723,,
+Mexico,2019,15-69 years,Both,Percent of total deaths,0.070708359,0.020663671,0.081116074,,
+Marshall Islands,2019,15-69 years,Both,Percent of total deaths,0.040612534,0.015939258,0.180727367,,
+North Macedonia,2019,15-69 years,Both,Percent of total deaths,0.043630854,0.000512123,0.165165453,,
+Mali,2019,15-69 years,Both,Percent of total deaths,0.028074999,0.084714686,0.044685563,,
+Malta,2019,15-69 years,Both,Percent of total deaths,0.03944543,0.004694468,0.138743495,,
+Myanmar,2019,15-69 years,Both,Percent of total deaths,0.03934312,0.037329977,0.074296407,,
+Montenegro,2019,15-69 years,Both,Percent of total deaths,0.051872551,0.001294604,0.138848919,,
+Mongolia,2019,15-69 years,Both,Percent of total deaths,0.054430782,0.001047892,0.135299299,,
+Northern Mariana Islands,2019,15-69 years,Both,Percent of total deaths,0.042769653,0.00485545,0.154710213,,
+Mozambique,2019,15-69 years,Both,Percent of total deaths,0.026381939,0.39005817,0.033514468,,
+Mauritania,2019,15-69 years,Both,Percent of total deaths,0.092365235,0.003171153,0.059453101,,
+Mauritius,2019,15-69 years,Both,Percent of total deaths,0.050007614,0.037756732,0.108332629,,
+Malawi,2019,15-69 years,Both,Percent of total deaths,0.028665512,0.2415567,0.044797722,,
+Malaysia,2019,15-69 years,Both,Percent of total deaths,0.120740453,0.022782755,0.150764737,,
+Namibia,2019,15-69 years,Both,Percent of total deaths,0.050670244,0.352518799,0.043950508,,
+Niger,2019,15-69 years,Both,Percent of total deaths,0.034689248,0.02980367,0.051839003,,
+Nigeria,2019,15-69 years,Both,Percent of total deaths,0.022349721,0.170834924,0.048129985,,
+Nicaragua,2019,15-69 years,Both,Percent of total deaths,0.068153456,0.068278136,0.089336821,,
+Niue,2019,15-69 years,Both,Percent of total deaths,0.048121261,0.035034982,0.18559045,,
+Netherlands,2019,15-69 years,Both,Percent of total deaths,0.039203014,0.003214369,0.070493275,,
+Norway,2019,15-69 years,Both,Percent of total deaths,0.037167955,0.003292387,0.076863307,,
+Nepal,2019,15-69 years,Both,Percent of total deaths,0.034854646,0.025657325,0.108394074,,
+Nauru,2019,15-69 years,Both,Percent of total deaths,0.065043941,0.017499639,0.205576577,,
+New Zealand,2019,15-69 years,Both,Percent of total deaths,0.071656423,0.002139059,0.098293008,,
+Oman,2019,15-69 years,Both,Percent of total deaths,0.313541568,0.015889244,0.203023303,,
+Pakistan,2019,15-69 years,Both,Percent of total deaths,0.028217442,0.00638473,0.153878137,,
+Panama,2019,15-69 years,Both,Percent of total deaths,0.076776355,0.096265519,0.069004033,,
+Peru,2019,15-69 years,Both,Percent of total deaths,0.087529891,0.045313,0.060526684,,
+Philippines,2019,15-69 years,Both,Percent of total deaths,0.039167153,0.019214993,0.138698717,,
+Palau,2019,15-69 years,Both,Percent of total deaths,0.035420155,0.02084315,0.176432716,,
+Papua New Guinea,2019,15-69 years,Both,Percent of total deaths,0.057124407,0.110476928,0.119918108,,
+Poland,2019,15-69 years,Both,Percent of total deaths,0.053927231,0.002616519,0.098647527,,
+Puerto Rico,2019,15-69 years,Both,Percent of total deaths,0.05780583,0.038943048,0.080316247,,
+Democratic People's Republic of Korea,2019,15-69 years,Both,Percent of total deaths,0.119243108,0.011158321,0.112065941,,
+Portugal,2019,15-69 years,Both,Percent of total deaths,0.058203554,0.046495941,0.071254268,,
+Paraguay,2019,15-69 years,Both,Percent of total deaths,0.123117025,0.041785546,0.092071598,,
+Palestine,2019,15-69 years,Both,Percent of total deaths,0.062978056,0.002914558,0.191552973,,
+Qatar,2019,15-69 years,Both,Percent of total deaths,0.243887113,0.00141832,0.15071112,,
+Romania,2019,15-69 years,Both,Percent of total deaths,0.046773143,0.004689288,0.134097292,,
+Russian Federation,2019,15-69 years,Both,Percent of total deaths,0.040168391,0.047983036,0.149965012,,
+Rwanda,2019,15-69 years,Both,Percent of total deaths,0.059316307,0.104096265,0.042211242,,
+Saudi Arabia,2019,15-69 years,Both,Percent of total deaths,0.238398398,0.007718808,0.200012811,,
+Senegal,2019,15-69 years,Both,Percent of total deaths,0.04000284,0.049555475,0.059152147,,
+Singapore,2019,15-69 years,Both,Percent of total deaths,0.037088719,0.008936079,0.143168452,,
+Solomon Islands,2019,15-69 years,Both,Percent of total deaths,0.040386724,0.009420771,0.203084061,,
+Sierra Leone,2019,15-69 years,Both,Percent of total deaths,0.038518187,0.11763992,0.057906065,,
+El Salvador,2019,15-69 years,Both,Percent of total deaths,0.065789602,0.038926097,0.077575788,,
+San Marino,2019,15-69 years,Both,Percent of total deaths,0.073021301,0.017999256,0.063514405,,
+Somalia,2019,15-69 years,Both,Percent of total deaths,0.034193898,0.039373156,0.049747908,,
+Serbia,2019,15-69 years,Both,Percent of total deaths,0.045687711,0.00401256,0.128039467,,
+South Sudan,2019,15-69 years,Both,Percent of total deaths,0.024784755,0.184243097,0.039444365,,
+Sao Tome and Principe,2019,15-69 years,Both,Percent of total deaths,0.044676397,0.000815247,0.081942426,,
+Suriname,2019,15-69 years,Both,Percent of total deaths,0.061456064,0.070963178,0.097937708,,
+Slovakia,2019,15-69 years,Both,Percent of total deaths,0.044599815,0.000515274,0.139230717,,
+Slovenia,2019,15-69 years,Both,Percent of total deaths,0.055031062,0.001186897,0.07195228,,
+Sweden,2019,15-69 years,Both,Percent of total deaths,0.036868105,0.002482691,0.087553881,,
+Eswatini,2019,15-69 years,Both,Percent of total deaths,0.046270231,0.409605524,0.035792732,,
+Seychelles,2019,15-69 years,Both,Percent of total deaths,0.055453554,0.014814209,0.101270915,,
+Syrian Arab Republic,2019,15-69 years,Both,Percent of total deaths,0.060158515,0.000672358,0.340105854,,
+Chad,2019,15-69 years,Both,Percent of total deaths,0.035160523,0.105230349,0.048078671,,
+Togo,2019,15-69 years,Both,Percent of total deaths,0.050252846,0.140861224,0.062197999,,
+Thailand,2019,15-69 years,Both,Percent of total deaths,0.107271644,0.097873109,0.061612522,,
+Tajikistan,2019,15-69 years,Both,Percent of total deaths,0.039688764,0.0040251,0.195622617,,
+Tokelau,2019,15-69 years,Both,Percent of total deaths,0.047783386,0.035843929,0.168239411,,
+Turkmenistan,2019,15-69 years,Both,Percent of total deaths,0.021090614,0.010039227,0.203623009,,
+Timor-Leste,2019,15-69 years,Both,Percent of total deaths,0.057934343,0.080178263,0.104676104,,
+Tonga,2019,15-69 years,Both,Percent of total deaths,0.043239568,0.009062579,0.128417789,,
+Trinidad and Tobago,2019,15-69 years,Both,Percent of total deaths,0.048669873,0.068789928,0.112233146,,
+Tunisia,2019,15-69 years,Both,Percent of total deaths,0.13262982,0.010316137,0.217742047,,
+Turkey,2019,15-69 years,Both,Percent of total deaths,0.074540364,0.002498374,0.159126961,,
+Tuvalu,2019,15-69 years,Both,Percent of total deaths,0.060725533,0.023598292,0.181555053,,
+Taiwan (Province of China),2019,15-69 years,Both,Percent of total deaths,0.066997762,0.004741576,0.056235757,,
+United Republic of Tanzania,2019,15-69 years,Both,Percent of total deaths,0.027700567,0.198254877,0.04531916,,
+Uganda,2019,15-69 years,Both,Percent of total deaths,0.039954147,0.201332285,0.040224443,,
+Ukraine,2019,15-69 years,Both,Percent of total deaths,0.03719242,0.043163931,0.201914435,,
+Uruguay,2019,15-69 years,Both,Percent of total deaths,0.080525145,0.031035518,0.066344157,,
+United States of America,2019,15-69 years,Both,Percent of total deaths,0.065219589,0.011264924,0.101939361,,
+Uzbekistan,2019,15-69 years,Both,Percent of total deaths,0.055737907,0.00851732,0.239302594,,
+Saint Vincent and the Grenadines,2019,15-69 years,Both,Percent of total deaths,0.028469816,0.070927075,0.08176935,,
+Venezuela (Bolivarian Republic of),2019,15-69 years,Both,Percent of total deaths,0.083593455,0.028725236,0.122899606,,
+United States Virgin Islands,2019,15-69 years,Both,Percent of total deaths,0.043999752,0.033927481,0.12987012,,
+Viet Nam,2019,15-69 years,Both,Percent of total deaths,0.107380545,0.044305706,0.072950093,,
+Vanuatu,2019,15-69 years,Both,Percent of total deaths,0.060322,0.016819806,0.193136801,,
+Samoa,2019,15-69 years,Both,Percent of total deaths,0.058102818,0.024929709,0.172694678,,
+Yemen,2019,15-69 years,Both,Percent of total deaths,0.121016778,0.003649288,0.189278911,,
+South Africa,2019,15-69 years,Both,Percent of total deaths,0.055650828,0.428854527,0.034259257,,
+Zambia,2019,15-69 years,Both,Percent of total deaths,0.026893337,0.299726216,0.037536953,,
+Zimbabwe,2019,15-69 years,Both,Percent of total deaths,0.030762777,0.266964611,0.051815546,,
+Egypt,2019,15-69 years,Both,Percent of total deaths,0.130130931,0.000338142,0.270220273,,
+Sudan,2019,15-69 years,Both,Percent of total deaths,0.07678624,0.079576618,0.216912459,,
+China,2019,15-69 years,Both,Percent of total deaths,0.097773854,0.01381587,0.116200299,,
+>>>>>>> origin/Leanne,,,,,,,,,

@@ -1,0 +1,4431 @@
+[{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8435b"
+  },
+  "": {
+    "$numberInt": "1"
+  },
+  "X": {
+    "$numberInt": "1"
+  },
+  "Entity": "Afghanistan",
+  "Code": "AFG",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.69"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8435c"
+  },
+  "": {
+    "$numberInt": "2"
+  },
+  "X": {
+    "$numberInt": "2"
+  },
+  "Entity": "Africa",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.6818657"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8435d"
+  },
+  "": {
+    "$numberInt": "3"
+  },
+  "X": {
+    "$numberInt": "3"
+  },
+  "Entity": "Albania",
+  "Code": "ALB",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.32"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8435e"
+  },
+  "": {
+    "$numberInt": "4"
+  },
+  "X": {
+    "$numberInt": "4"
+  },
+  "Entity": "Algeria",
+  "Code": "DZA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.18"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8435f"
+  },
+  "": {
+    "$numberInt": "5"
+  },
+  "X": {
+    "$numberInt": "5"
+  },
+  "Entity": "Argentina",
+  "Code": "ARG",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.86"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84360"
+  },
+  "": {
+    "$numberInt": "6"
+  },
+  "X": {
+    "$numberInt": "6"
+  },
+  "Entity": "Armenia",
+  "Code": "ARM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.54"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84361"
+  },
+  "": {
+    "$numberInt": "7"
+  },
+  "X": {
+    "$numberInt": "7"
+  },
+  "Entity": "Asia",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.571011"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84362"
+  },
+  "": {
+    "$numberInt": "8"
+  },
+  "X": {
+    "$numberInt": "8"
+  },
+  "Entity": "Australia",
+  "Code": "AUS",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.93"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84363"
+  },
+  "": {
+    "$numberInt": "9"
+  },
+  "X": {
+    "$numberInt": "9"
+  },
+  "Entity": "Austria",
+  "Code": "AUT",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.39"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84364"
+  },
+  "": {
+    "$numberInt": "10"
+  },
+  "X": {
+    "$numberInt": "10"
+  },
+  "Entity": "Bahrain",
+  "Code": "BHR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.21"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84365"
+  },
+  "": {
+    "$numberInt": "11"
+  },
+  "X": {
+    "$numberInt": "11"
+  },
+  "Entity": "Bangladesh",
+  "Code": "BGD",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "7.23"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84366"
+  },
+  "": {
+    "$numberInt": "12"
+  },
+  "X": {
+    "$numberInt": "12"
+  },
+  "Entity": "Barbados",
+  "Code": "BRB",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.67"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84367"
+  },
+  "": {
+    "$numberInt": "13"
+  },
+  "X": {
+    "$numberInt": "13"
+  },
+  "Entity": "Belgium",
+  "Code": "BEL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.57"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84368"
+  },
+  "": {
+    "$numberInt": "14"
+  },
+  "X": {
+    "$numberInt": "14"
+  },
+  "Entity": "Belize",
+  "Code": "BLZ",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.71"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84369"
+  },
+  "": {
+    "$numberInt": "15"
+  },
+  "X": {
+    "$numberInt": "15"
+  },
+  "Entity": "Benin",
+  "Code": "BEN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.27"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8436a"
+  },
+  "": {
+    "$numberInt": "16"
+  },
+  "X": {
+    "$numberInt": "16"
+  },
+  "Entity": "Bolivia",
+  "Code": "BOL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.06"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8436b"
+  },
+  "": {
+    "$numberInt": "17"
+  },
+  "X": {
+    "$numberInt": "17"
+  },
+  "Entity": "Botswana",
+  "Code": "BWA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.58"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8436c"
+  },
+  "": {
+    "$numberInt": "18"
+  },
+  "X": {
+    "$numberInt": "18"
+  },
+  "Entity": "Brazil",
+  "Code": "BRA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberInt": "8"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8436d"
+  },
+  "": {
+    "$numberInt": "19"
+  },
+  "X": {
+    "$numberInt": "19"
+  },
+  "Entity": "Brunei",
+  "Code": "BRN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.28"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8436e"
+  },
+  "": {
+    "$numberInt": "20"
+  },
+  "X": {
+    "$numberInt": "20"
+  },
+  "Entity": "Bulgaria",
+  "Code": "BGR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.75"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8436f"
+  },
+  "": {
+    "$numberInt": "21"
+  },
+  "X": {
+    "$numberInt": "21"
+  },
+  "Entity": "Burundi",
+  "Code": "BDI",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.05"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84370"
+  },
+  "": {
+    "$numberInt": "22"
+  },
+  "X": {
+    "$numberInt": "22"
+  },
+  "Entity": "Cambodia",
+  "Code": "KHM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.81"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84371"
+  },
+  "": {
+    "$numberInt": "23"
+  },
+  "X": {
+    "$numberInt": "23"
+  },
+  "Entity": "Cameroon",
+  "Code": "CMR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "7.37"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84372"
+  },
+  "": {
+    "$numberInt": "24"
+  },
+  "X": {
+    "$numberInt": "24"
+  },
+  "Entity": "Canada",
+  "Code": "CAN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.93"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84373"
+  },
+  "": {
+    "$numberInt": "25"
+  },
+  "X": {
+    "$numberInt": "25"
+  },
+  "Entity": "Central African Republic",
+  "Code": "CAF",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.64"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84374"
+  },
+  "": {
+    "$numberInt": "26"
+  },
+  "X": {
+    "$numberInt": "26"
+  },
+  "Entity": "Chile",
+  "Code": "CHL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.74"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84375"
+  },
+  "": {
+    "$numberInt": "27"
+  },
+  "X": {
+    "$numberInt": "27"
+  },
+  "Entity": "China",
+  "Code": "CHN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.99"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84376"
+  },
+  "": {
+    "$numberInt": "28"
+  },
+  "X": {
+    "$numberInt": "28"
+  },
+  "Entity": "Colombia",
+  "Code": "COL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.2"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84377"
+  },
+  "": {
+    "$numberInt": "29"
+  },
+  "X": {
+    "$numberInt": "29"
+  },
+  "Entity": "Congo",
+  "Code": "COG",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.74"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84378"
+  },
+  "": {
+    "$numberInt": "30"
+  },
+  "X": {
+    "$numberInt": "30"
+  },
+  "Entity": "Costa Rica",
+  "Code": "CRI",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.12"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84379"
+  },
+  "": {
+    "$numberInt": "31"
+  },
+  "X": {
+    "$numberInt": "31"
+  },
+  "Entity": "Cote d'Ivoire",
+  "Code": "CIV",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.05"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8437a"
+  },
+  "": {
+    "$numberInt": "32"
+  },
+  "X": {
+    "$numberInt": "32"
+  },
+  "Entity": "Croatia",
+  "Code": "HRV",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.03"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8437b"
+  },
+  "": {
+    "$numberInt": "33"
+  },
+  "X": {
+    "$numberInt": "33"
+  },
+  "Entity": "Cuba",
+  "Code": "CUB",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.61"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8437c"
+  },
+  "": {
+    "$numberInt": "34"
+  },
+  "X": {
+    "$numberInt": "34"
+  },
+  "Entity": "Cyprus",
+  "Code": "CYP",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.42"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8437d"
+  },
+  "": {
+    "$numberInt": "35"
+  },
+  "X": {
+    "$numberInt": "35"
+  },
+  "Entity": "Czechia",
+  "Code": "CZE",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.93"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8437e"
+  },
+  "": {
+    "$numberInt": "36"
+  },
+  "X": {
+    "$numberInt": "36"
+  },
+  "Entity": "Democratic Republic of Congo",
+  "Code": "COD",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.85"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8437f"
+  },
+  "": {
+    "$numberInt": "37"
+  },
+  "X": {
+    "$numberInt": "37"
+  },
+  "Entity": "Denmark",
+  "Code": "DNK",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.69"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84380"
+  },
+  "": {
+    "$numberInt": "38"
+  },
+  "X": {
+    "$numberInt": "38"
+  },
+  "Entity": "Dominican Republic",
+  "Code": "DOM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.04"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84381"
+  },
+  "": {
+    "$numberInt": "39"
+  },
+  "X": {
+    "$numberInt": "39"
+  },
+  "Entity": "Ecuador",
+  "Code": "ECU",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.07"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84382"
+  },
+  "": {
+    "$numberInt": "40"
+  },
+  "X": {
+    "$numberInt": "40"
+  },
+  "Entity": "Egypt",
+  "Code": "EGY",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.01"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84383"
+  },
+  "": {
+    "$numberInt": "41"
+  },
+  "X": {
+    "$numberInt": "41"
+  },
+  "Entity": "El Salvador",
+  "Code": "SLV",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.1"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84384"
+  },
+  "": {
+    "$numberInt": "42"
+  },
+  "X": {
+    "$numberInt": "42"
+  },
+  "Entity": "Estonia",
+  "Code": "EST",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.29"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84385"
+  },
+  "": {
+    "$numberInt": "43"
+  },
+  "X": {
+    "$numberInt": "43"
+  },
+  "Entity": "Eswatini",
+  "Code": "SWZ",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.46"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84386"
+  },
+  "": {
+    "$numberInt": "44"
+  },
+  "X": {
+    "$numberInt": "44"
+  },
+  "Entity": "Europe",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.9022875"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84387"
+  },
+  "": {
+    "$numberInt": "45"
+  },
+  "X": {
+    "$numberInt": "45"
+  },
+  "Entity": "Fiji",
+  "Code": "FJI",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.52"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84388"
+  },
+  "": {
+    "$numberInt": "46"
+  },
+  "X": {
+    "$numberInt": "46"
+  },
+  "Entity": "Finland",
+  "Code": "FIN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.05"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84389"
+  },
+  "": {
+    "$numberInt": "47"
+  },
+  "X": {
+    "$numberInt": "47"
+  },
+  "Entity": "France",
+  "Code": "FRA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.89"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8438a"
+  },
+  "": {
+    "$numberInt": "48"
+  },
+  "X": {
+    "$numberInt": "48"
+  },
+  "Entity": "Gabon",
+  "Code": "GAB",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.18"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8438b"
+  },
+  "": {
+    "$numberInt": "49"
+  },
+  "X": {
+    "$numberInt": "49"
+  },
+  "Entity": "Gambia",
+  "Code": "GMB",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.92"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8438c"
+  },
+  "": {
+    "$numberInt": "50"
+  },
+  "X": {
+    "$numberInt": "50"
+  },
+  "Entity": "Germany",
+  "Code": "DEU",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "13.1"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8438d"
+  },
+  "": {
+    "$numberInt": "51"
+  },
+  "X": {
+    "$numberInt": "51"
+  },
+  "Entity": "Ghana",
+  "Code": "GHA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.39"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8438e"
+  },
+  "": {
+    "$numberInt": "52"
+  },
+  "X": {
+    "$numberInt": "52"
+  },
+  "Entity": "Greece",
+  "Code": "GRC",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.86"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8438f"
+  },
+  "": {
+    "$numberInt": "53"
+  },
+  "X": {
+    "$numberInt": "53"
+  },
+  "Entity": "Guatemala",
+  "Code": "GTM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.26"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84390"
+  },
+  "": {
+    "$numberInt": "54"
+  },
+  "X": {
+    "$numberInt": "54"
+  },
+  "Entity": "Guyana",
+  "Code": "GUY",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.52"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84391"
+  },
+  "": {
+    "$numberInt": "55"
+  },
+  "X": {
+    "$numberInt": "55"
+  },
+  "Entity": "Haiti",
+  "Code": "HTI",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.95"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84392"
+  },
+  "": {
+    "$numberInt": "56"
+  },
+  "X": {
+    "$numberInt": "56"
+  },
+  "Entity": "Honduras",
+  "Code": "HND",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "7.51"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84393"
+  },
+  "": {
+    "$numberInt": "57"
+  },
+  "X": {
+    "$numberInt": "57"
+  },
+  "Entity": "Hong Kong",
+  "Code": "HKG",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.83"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84394"
+  },
+  "": {
+    "$numberInt": "58"
+  },
+  "X": {
+    "$numberInt": "58"
+  },
+  "Entity": "Hungary",
+  "Code": "HUN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.96"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84395"
+  },
+  "": {
+    "$numberInt": "59"
+  },
+  "X": {
+    "$numberInt": "59"
+  },
+  "Entity": "Iceland",
+  "Code": "ISL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "13.53"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84396"
+  },
+  "": {
+    "$numberInt": "60"
+  },
+  "X": {
+    "$numberInt": "60"
+  },
+  "Entity": "India",
+  "Code": "IND",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "7.8"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84397"
+  },
+  "": {
+    "$numberInt": "61"
+  },
+  "X": {
+    "$numberInt": "61"
+  },
+  "Entity": "Indonesia",
+  "Code": "IDN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.06"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84398"
+  },
+  "": {
+    "$numberInt": "62"
+  },
+  "X": {
+    "$numberInt": "62"
+  },
+  "Entity": "Iran",
+  "Code": "IRN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.8"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f84399"
+  },
+  "": {
+    "$numberInt": "63"
+  },
+  "X": {
+    "$numberInt": "63"
+  },
+  "Entity": "Iraq",
+  "Code": "IRQ",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.27"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8439a"
+  },
+  "": {
+    "$numberInt": "64"
+  },
+  "X": {
+    "$numberInt": "64"
+  },
+  "Entity": "Ireland",
+  "Code": "IRL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "13.74"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8439b"
+  },
+  "": {
+    "$numberInt": "65"
+  },
+  "X": {
+    "$numberInt": "65"
+  },
+  "Entity": "Israel",
+  "Code": "ISR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.04"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8439c"
+  },
+  "": {
+    "$numberInt": "66"
+  },
+  "X": {
+    "$numberInt": "66"
+  },
+  "Entity": "Italy",
+  "Code": "ITA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.51"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8439d"
+  },
+  "": {
+    "$numberInt": "67"
+  },
+  "X": {
+    "$numberInt": "67"
+  },
+  "Entity": "Jamaica",
+  "Code": "JAM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.1"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8439e"
+  },
+  "": {
+    "$numberInt": "68"
+  },
+  "X": {
+    "$numberInt": "68"
+  },
+  "Entity": "Japan",
+  "Code": "JPN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.83"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f8439f"
+  },
+  "": {
+    "$numberInt": "69"
+  },
+  "X": {
+    "$numberInt": "69"
+  },
+  "Entity": "Jordan",
+  "Code": "JOR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.81"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a0"
+  },
+  "": {
+    "$numberInt": "70"
+  },
+  "X": {
+    "$numberInt": "70"
+  },
+  "Entity": "Kazakhstan",
+  "Code": "KAZ",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.79"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a1"
+  },
+  "": {
+    "$numberInt": "71"
+  },
+  "X": {
+    "$numberInt": "71"
+  },
+  "Entity": "Kenya",
+  "Code": "KEN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.73"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a2"
+  },
+  "": {
+    "$numberInt": "72"
+  },
+  "X": {
+    "$numberInt": "72"
+  },
+  "Entity": "Kuwait",
+  "Code": "KWT",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.62"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a3"
+  },
+  "": {
+    "$numberInt": "73"
+  },
+  "X": {
+    "$numberInt": "73"
+  },
+  "Entity": "Kyrgyzstan",
+  "Code": "KGZ",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.18"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a4"
+  },
+  "": {
+    "$numberInt": "74"
+  },
+  "X": {
+    "$numberInt": "74"
+  },
+  "Entity": "Laos",
+  "Code": "LAO",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.05"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a5"
+  },
+  "": {
+    "$numberInt": "75"
+  },
+  "X": {
+    "$numberInt": "75"
+  },
+  "Entity": "Latvia",
+  "Code": "LVA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.96"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a6"
+  },
+  "": {
+    "$numberInt": "76"
+  },
+  "X": {
+    "$numberInt": "76"
+  },
+  "Entity": "Lesotho",
+  "Code": "LSO",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.88"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a7"
+  },
+  "": {
+    "$numberInt": "77"
+  },
+  "X": {
+    "$numberInt": "77"
+  },
+  "Entity": "Liberia",
+  "Code": "LBR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.8"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a8"
+  },
+  "": {
+    "$numberInt": "78"
+  },
+  "X": {
+    "$numberInt": "78"
+  },
+  "Entity": "Libya",
+  "Code": "LBY",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.57"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843a9"
+  },
+  "": {
+    "$numberInt": "79"
+  },
+  "X": {
+    "$numberInt": "79"
+  },
+  "Entity": "Lithuania",
+  "Code": "LTU",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.5"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843aa"
+  },
+  "": {
+    "$numberInt": "80"
+  },
+  "X": {
+    "$numberInt": "80"
+  },
+  "Entity": "Luxembourg",
+  "Code": "LUX",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.53"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ab"
+  },
+  "": {
+    "$numberInt": "81"
+  },
+  "X": {
+    "$numberInt": "81"
+  },
+  "Entity": "Macao",
+  "Code": "MAC",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.97"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ac"
+  },
+  "": {
+    "$numberInt": "82"
+  },
+  "X": {
+    "$numberInt": "82"
+  },
+  "Entity": "Malawi",
+  "Code": "MWI",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.41"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ad"
+  },
+  "": {
+    "$numberInt": "83"
+  },
+  "X": {
+    "$numberInt": "83"
+  },
+  "Entity": "Malaysia",
+  "Code": "MYS",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.96"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ae"
+  },
+  "": {
+    "$numberInt": "84"
+  },
+  "X": {
+    "$numberInt": "84"
+  },
+  "Entity": "Maldives",
+  "Code": "MDV",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.06"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843af"
+  },
+  "": {
+    "$numberInt": "85"
+  },
+  "X": {
+    "$numberInt": "85"
+  },
+  "Entity": "Mali",
+  "Code": "MLI",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "3.55"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b0"
+  },
+  "": {
+    "$numberInt": "86"
+  },
+  "X": {
+    "$numberInt": "86"
+  },
+  "Entity": "Malta",
+  "Code": "MLT",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.09"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b1"
+  },
+  "": {
+    "$numberInt": "87"
+  },
+  "X": {
+    "$numberInt": "87"
+  },
+  "Entity": "Mauritania",
+  "Code": "MRT",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.55"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b2"
+  },
+  "": {
+    "$numberInt": "88"
+  },
+  "X": {
+    "$numberInt": "88"
+  },
+  "Entity": "Mauritius",
+  "Code": "MUS",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.4"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b3"
+  },
+  "": {
+    "$numberInt": "89"
+  },
+  "X": {
+    "$numberInt": "89"
+  },
+  "Entity": "Mexico",
+  "Code": "MEX",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.18"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b4"
+  },
+  "": {
+    "$numberInt": "90"
+  },
+  "X": {
+    "$numberInt": "90"
+  },
+  "Entity": "Moldova",
+  "Code": "MDA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.84"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b5"
+  },
+  "": {
+    "$numberInt": "91"
+  },
+  "X": {
+    "$numberInt": "91"
+  },
+  "Entity": "Mongolia",
+  "Code": "MNG",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberInt": "10"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b6"
+  },
+  "": {
+    "$numberInt": "92"
+  },
+  "X": {
+    "$numberInt": "92"
+  },
+  "Entity": "Morocco",
+  "Code": "MAR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.83"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b7"
+  },
+  "": {
+    "$numberInt": "93"
+  },
+  "X": {
+    "$numberInt": "93"
+  },
+  "Entity": "Mozambique",
+  "Code": "MOZ",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.22"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b8"
+  },
+  "": {
+    "$numberInt": "94"
+  },
+  "X": {
+    "$numberInt": "94"
+  },
+  "Entity": "Myanmar",
+  "Code": "MMR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.48"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843b9"
+  },
+  "": {
+    "$numberInt": "95"
+  },
+  "X": {
+    "$numberInt": "95"
+  },
+  "Entity": "Namibia",
+  "Code": "NAM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.88"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ba"
+  },
+  "": {
+    "$numberInt": "96"
+  },
+  "X": {
+    "$numberInt": "96"
+  },
+  "Entity": "Nepal",
+  "Code": "NPL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.19"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843bb"
+  },
+  "": {
+    "$numberInt": "97"
+  },
+  "X": {
+    "$numberInt": "97"
+  },
+  "Entity": "Netherlands",
+  "Code": "NLD",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.82"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843bc"
+  },
+  "": {
+    "$numberInt": "98"
+  },
+  "X": {
+    "$numberInt": "98"
+  },
+  "Entity": "New Zealand",
+  "Code": "NZL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.81"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843bd"
+  },
+  "": {
+    "$numberInt": "99"
+  },
+  "X": {
+    "$numberInt": "99"
+  },
+  "Entity": "Nicaragua",
+  "Code": "NIC",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "7.76"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843be"
+  },
+  "": {
+    "$numberInt": "100"
+  },
+  "X": {
+    "$numberInt": "100"
+  },
+  "Entity": "Niger",
+  "Code": "NER",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "3.04"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843bf"
+  },
+  "": {
+    "$numberInt": "101"
+  },
+  "X": {
+    "$numberInt": "101"
+  },
+  "Entity": "North America",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.858304"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c0"
+  },
+  "": {
+    "$numberInt": "102"
+  },
+  "X": {
+    "$numberInt": "102"
+  },
+  "Entity": "Norway",
+  "Code": "NOR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.08"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c1"
+  },
+  "": {
+    "$numberInt": "103"
+  },
+  "X": {
+    "$numberInt": "103"
+  },
+  "Entity": "Oceania",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.736105"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c2"
+  },
+  "": {
+    "$numberInt": "104"
+  },
+  "X": {
+    "$numberInt": "104"
+  },
+  "Entity": "Pakistan",
+  "Code": "PAK",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.41"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c3"
+  },
+  "": {
+    "$numberInt": "105"
+  },
+  "X": {
+    "$numberInt": "105"
+  },
+  "Entity": "Panama",
+  "Code": "PAN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.44"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c4"
+  },
+  "": {
+    "$numberInt": "106"
+  },
+  "X": {
+    "$numberInt": "106"
+  },
+  "Entity": "Papua New Guinea",
+  "Code": "PNG",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.84"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c5"
+  },
+  "": {
+    "$numberInt": "107"
+  },
+  "X": {
+    "$numberInt": "107"
+  },
+  "Entity": "Paraguay",
+  "Code": "PRY",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.83"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c6"
+  },
+  "": {
+    "$numberInt": "108"
+  },
+  "X": {
+    "$numberInt": "108"
+  },
+  "Entity": "Peru",
+  "Code": "PER",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.96"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c7"
+  },
+  "": {
+    "$numberInt": "109"
+  },
+  "X": {
+    "$numberInt": "109"
+  },
+  "Entity": "Philippines",
+  "Code": "PHL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.44"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c8"
+  },
+  "": {
+    "$numberInt": "110"
+  },
+  "X": {
+    "$numberInt": "110"
+  },
+  "Entity": "Poland",
+  "Code": "POL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.01"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843c9"
+  },
+  "": {
+    "$numberInt": "111"
+  },
+  "X": {
+    "$numberInt": "111"
+  },
+  "Entity": "Portugal",
+  "Code": "PRT",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.56"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ca"
+  },
+  "": {
+    "$numberInt": "112"
+  },
+  "X": {
+    "$numberInt": "112"
+  },
+  "Entity": "Qatar",
+  "Code": "QAT",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.52"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843cb"
+  },
+  "": {
+    "$numberInt": "113"
+  },
+  "X": {
+    "$numberInt": "113"
+  },
+  "Entity": "Reunion",
+  "Code": "REU",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.71"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843cc"
+  },
+  "": {
+    "$numberInt": "114"
+  },
+  "X": {
+    "$numberInt": "114"
+  },
+  "Entity": "Romania",
+  "Code": "ROU",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.28"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843cd"
+  },
+  "": {
+    "$numberInt": "115"
+  },
+  "X": {
+    "$numberInt": "115"
+  },
+  "Entity": "Russia",
+  "Code": "RUS",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.6"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ce"
+  },
+  "": {
+    "$numberInt": "116"
+  },
+  "X": {
+    "$numberInt": "116"
+  },
+  "Entity": "Rwanda",
+  "Code": "RWA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.24"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843cf"
+  },
+  "": {
+    "$numberInt": "117"
+  },
+  "X": {
+    "$numberInt": "117"
+  },
+  "Entity": "Saudi Arabia",
+  "Code": "SAU",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.86"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d0"
+  },
+  "": {
+    "$numberInt": "118"
+  },
+  "X": {
+    "$numberInt": "118"
+  },
+  "Entity": "Senegal",
+  "Code": "SEN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.4"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d1"
+  },
+  "": {
+    "$numberInt": "119"
+  },
+  "X": {
+    "$numberInt": "119"
+  },
+  "Entity": "Serbia",
+  "Code": "SRB",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.72"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d2"
+  },
+  "": {
+    "$numberInt": "120"
+  },
+  "X": {
+    "$numberInt": "120"
+  },
+  "Entity": "Sierra Leone",
+  "Code": "SLE",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.99"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d3"
+  },
+  "": {
+    "$numberInt": "121"
+  },
+  "X": {
+    "$numberInt": "121"
+  },
+  "Entity": "Singapore",
+  "Code": "SGP",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "13.06"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d4"
+  },
+  "": {
+    "$numberInt": "122"
+  },
+  "X": {
+    "$numberInt": "122"
+  },
+  "Entity": "Slovakia",
+  "Code": "SVK",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "13.14"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d5"
+  },
+  "": {
+    "$numberInt": "123"
+  },
+  "X": {
+    "$numberInt": "123"
+  },
+  "Entity": "Slovenia",
+  "Code": "SVN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.06"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d6"
+  },
+  "": {
+    "$numberInt": "124"
+  },
+  "X": {
+    "$numberInt": "124"
+  },
+  "Entity": "South Africa",
+  "Code": "ZAF",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.47"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d7"
+  },
+  "": {
+    "$numberInt": "125"
+  },
+  "X": {
+    "$numberInt": "125"
+  },
+  "Entity": "South America",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.909957"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d8"
+  },
+  "": {
+    "$numberInt": "126"
+  },
+  "X": {
+    "$numberInt": "126"
+  },
+  "Entity": "South Korea",
+  "Code": "KOR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "13.68"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843d9"
+  },
+  "": {
+    "$numberInt": "127"
+  },
+  "X": {
+    "$numberInt": "127"
+  },
+  "Entity": "Spain",
+  "Code": "ESP",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.51"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843da"
+  },
+  "": {
+    "$numberInt": "128"
+  },
+  "X": {
+    "$numberInt": "128"
+  },
+  "Entity": "Sri Lanka",
+  "Code": "LKA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.33"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843db"
+  },
+  "": {
+    "$numberInt": "129"
+  },
+  "X": {
+    "$numberInt": "129"
+  },
+  "Entity": "Sudan",
+  "Code": "SDN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "4.38"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843dc"
+  },
+  "": {
+    "$numberInt": "130"
+  },
+  "X": {
+    "$numberInt": "130"
+  },
+  "Entity": "Sweden",
+  "Code": "SWE",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.93"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843dd"
+  },
+  "": {
+    "$numberInt": "131"
+  },
+  "X": {
+    "$numberInt": "131"
+  },
+  "Entity": "Switzerland",
+  "Code": "CHE",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.97"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843de"
+  },
+  "": {
+    "$numberInt": "132"
+  },
+  "X": {
+    "$numberInt": "132"
+  },
+  "Entity": "Syria",
+  "Code": "SYR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "7.92"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843df"
+  },
+  "": {
+    "$numberInt": "133"
+  },
+  "X": {
+    "$numberInt": "133"
+  },
+  "Entity": "Taiwan",
+  "Code": "TWN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.76"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e0"
+  },
+  "": {
+    "$numberInt": "134"
+  },
+  "X": {
+    "$numberInt": "134"
+  },
+  "Entity": "Tajikistan",
+  "Code": "TJK",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.12"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e1"
+  },
+  "": {
+    "$numberInt": "135"
+  },
+  "X": {
+    "$numberInt": "135"
+  },
+  "Entity": "Tanzania",
+  "Code": "TZA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.87"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e2"
+  },
+  "": {
+    "$numberInt": "136"
+  },
+  "X": {
+    "$numberInt": "136"
+  },
+  "Entity": "Thailand",
+  "Code": "THA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.32"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e3"
+  },
+  "": {
+    "$numberInt": "137"
+  },
+  "X": {
+    "$numberInt": "137"
+  },
+  "Entity": "Togo",
+  "Code": "TGO",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "7.68"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e4"
+  },
+  "": {
+    "$numberInt": "138"
+  },
+  "X": {
+    "$numberInt": "138"
+  },
+  "Entity": "Tonga",
+  "Code": "TON",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.42"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e5"
+  },
+  "": {
+    "$numberInt": "139"
+  },
+  "X": {
+    "$numberInt": "139"
+  },
+  "Entity": "Trinidad and Tobago",
+  "Code": "TTO",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "11.28"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e6"
+  },
+  "": {
+    "$numberInt": "140"
+  },
+  "X": {
+    "$numberInt": "140"
+  },
+  "Entity": "Tunisia",
+  "Code": "TUN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.29"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e7"
+  },
+  "": {
+    "$numberInt": "141"
+  },
+  "X": {
+    "$numberInt": "141"
+  },
+  "Entity": "Turkey",
+  "Code": "TUR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.49"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e8"
+  },
+  "": {
+    "$numberInt": "142"
+  },
+  "X": {
+    "$numberInt": "142"
+  },
+  "Entity": "Uganda",
+  "Code": "UGA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "6.69"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843e9"
+  },
+  "": {
+    "$numberInt": "143"
+  },
+  "X": {
+    "$numberInt": "143"
+  },
+  "Entity": "Ukraine",
+  "Code": "UKR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "10.82"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ea"
+  },
+  "": {
+    "$numberInt": "144"
+  },
+  "X": {
+    "$numberInt": "144"
+  },
+  "Entity": "United Arab Emirates",
+  "Code": "ARE",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.57"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843eb"
+  },
+  "": {
+    "$numberInt": "145"
+  },
+  "X": {
+    "$numberInt": "145"
+  },
+  "Entity": "United Kingdom",
+  "Code": "GBR",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "12.9"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ec"
+  },
+  "": {
+    "$numberInt": "146"
+  },
+  "X": {
+    "$numberInt": "146"
+  },
+  "Entity": "United States",
+  "Code": "USA",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "13.32"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ed"
+  },
+  "": {
+    "$numberInt": "147"
+  },
+  "X": {
+    "$numberInt": "147"
+  },
+  "Entity": "Uruguay",
+  "Code": "URY",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.76"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ee"
+  },
+  "": {
+    "$numberInt": "148"
+  },
+  "X": {
+    "$numberInt": "148"
+  },
+  "Entity": "Venezuela",
+  "Code": "VEN",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "9.33"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843ef"
+  },
+  "": {
+    "$numberInt": "149"
+  },
+  "X": {
+    "$numberInt": "149"
+  },
+  "Entity": "Vietnam",
+  "Code": "VNM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.35"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843f0"
+  },
+  "": {
+    "$numberInt": "150"
+  },
+  "X": {
+    "$numberInt": "150"
+  },
+  "Entity": "World",
+  "Code": "OWID_WRL",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.840671"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843f1"
+  },
+  "": {
+    "$numberInt": "151"
+  },
+  "X": {
+    "$numberInt": "151"
+  },
+  "Entity": "Yemen",
+  "Code": "YEM",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "5.56"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843f2"
+  },
+  "": {
+    "$numberInt": "152"
+  },
+  "X": {
+    "$numberInt": "152"
+  },
+  "Entity": "Zambia",
+  "Code": "ZMB",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.37"
+            }
+          }
+        }
+      }
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661df4aa8100f34712f843f3"
+  },
+  "": {
+    "$numberInt": "153"
+  },
+  "X": {
+    "$numberInt": "153"
+  },
+  "Entity": "Zimbabwe",
+  "Code": "ZWE",
+  "Year": {
+    "$numberInt": "2020"
+  },
+  "Avg": {
+    "Ed": {
+      "": {
+        "": {
+          "Years": {
+            "": {
+              "$numberDouble": "8.32"
+            }
+          }
+        }
+      }
+    }
+  }
+}]
