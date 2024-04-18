@@ -68,11 +68,7 @@ The third graph depicts the correlation between Ischemic Heart Disease and avera
 __________________________________________________________________________________________
 # Leanne-- Does disease prevalence have an impact on a country’s happiness?
 
-Rates of the top 3 causes of death (Global Burden of Disease 2020) were compared against all measures of the World Happiness Report and average levels of education per country (OECD 2020) to assess whether there were any correlations between the variables. As there are 7 variables in this analysis, a scatter matrix was generated in order to view overall patterns at first glance:
-
-![3DeathWHR](https://github.com/Beyonka86/Project-3/blob/main/Pictures_LN/3DeathWHR.png)
-
-The most informative section of the scatter matrix as it relates to the research question falls in the diagonal selection of twelve charts between “Road Injuries, Logged GDP per Capita” and “Ischemic Heart Disease, Freedom to make life choices.” The patterns are most similar to each other when grouped by the rates of top 3 causes of death.
+Rates of the top 3 causes of death (Global Burden of Disease 2020) were compared against all measures of the World Happiness Report and average levels of education per country (OECD 2020) to assess whether there were any correlations between the variables.
 
 ![RoadInjury](https://github.com/Beyonka86/Project-3/blob/main/Pictures_LN/RoadInjury.png)
 
@@ -87,6 +83,11 @@ Similarly weak correlations also exist amongst the various measures being tested
 
 If a regression analysis using a log-transformed fit is used for this representation, there may be a stronger correlation between the variables measured against rates of death due to ischemic heart disease. Yet, the correlation remains weak across the variables in this representation and no relationship can be inferred. In this view, Kuwait holds the highest Ischemic Heart Disease-related death rate.
 
-Given that the patterns are most similar to one another when grouped by the cause of death, there are likely a series of un-assessed factors mentioned in the previous questions contributing more significantly to the outcomes seen across the causes of death.
+As there are 7 variables in this analysis, a scatter matrix was generated in order to view overall patterns at first glance:
+
+![3DeathWHR](https://github.com/Beyonka86/Project-3/blob/main/Pictures_LN/3DeathWHR.png)
+
+The most informative section of the scatter matrix as it relates to the research question falls in the diagonal selection of twelve charts between “Road Injuries, Logged GDP per Capita” and “Ischemic Heart Disease, Freedom to make life choices.” Given that the patterns are most similar to one another when grouped by the cause of death, there are likely a series of un-assessed factors mentioned in the previous questions contributing more significantly to the outcomes seen across the causes of death and their affiliated rates.
+
 
 ______________________________________________________________________
