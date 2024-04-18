@@ -32,7 +32,7 @@ The goal of this research project is to utilize data visualization methods to as
 ___________________________________________________________________________
 # Matt-- Does attaining a higher level of education correlate to being more happy?
 
-![freedom to make life choices vs  avg edu](https://github.com/Beyonka86/Project-3/assets/111611012/26aacf4c-04ee-43b4-97b9-12748b270190)
+![freedom to make life choices vs  avg edu](https://github.com/Beyonka86/Project-3/blob/main/Matt_PNG/freedom%20to%20make%20life%20choices%20vs.%20avg%20edu.png)
 
 In this visualization we see the correlation between Average Years of Education Achieved from (OECD 2020) and the Freedom to Make Life Choices (WHR 2020). A very weak positive correlation exists between the two factors with an R-Squared = 0.07. It appears that while the citizens of about 75% of the world's countries have the freedom to make their own life choices, that choice does not always correlate to pursuing a higher education.In this visualization we see the correlation between Average Years of Education Achieved from (OECD 2020) and the Freedom to Make Life Choices (WHR 2020). A very weak positive correlation exists between the two factors with an R-Squared = 0.07. It appears that while the citizens of about 75% of the world's countries have the freedom to make their own life choices, that choice does not always correlate to pursuing a higher education.
 
